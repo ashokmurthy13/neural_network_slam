@@ -12,6 +12,10 @@ Neural networks rely on training data to learn and improve their accuracy over t
 
 ### Types of Neural Networks
 
+* Artificial Neural Networks (ANN)
+* Convolution Neural Networks (CNN)
+* Recurrent Neural Networks (RNN)
+
 ### What is SLAM
 
 Simultaneous localization and mapping (SLAM) is the computational problem of constructing or updating a map of an unknown environment while simultaneously keeping track of an agent's location within it. While this initially appears to be a chicken-and-egg problem there are several algorithms known for solving it, at least approximately, in tractable time for certain environments. Popular approximate solution methods include the particle filter, extended Kalman filter, covariance intersection, and GraphSLAM. SLAM algorithms are based on concepts in computational geometry and computer vision, and are used in robot navigation, robotic mapping and odometry for virtual reality or augmented reality.
@@ -23,11 +27,10 @@ SLAM algorithms are tailored to the available resources, hence not aimed at perf
 SLAM (simultaneous localization and mapping) is a method used for autonomous vehicles that lets you build a map and localize your vehicle in that map at the same time. SLAM algorithms allow the vehicle to map out unknown environments. Engineers use the map information to carry out tasks such as path planning and obstacle avoidance.
 
 ### SLAM Pipeline
-
-
+ - TODO
 
 ### SLAM and Neural Network
-
+ - TODO
 
 ### References
 
